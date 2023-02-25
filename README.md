@@ -33,3 +33,7 @@ https://mega.nz/file/fY1STZ7B#NHVV1I2ehVNyyc5VOiIXr6eSc58wlcXgmMuR7b3Phfo
 
 All creds to Chris Titus for making this Utility because it is much more simple to operate with stripped down ISOs.
 Thanks!
+
+# There is still room for improvement!
+
+There are still some things I want to change or delete. Make sure to watch this repo for updates!
