@@ -23,8 +23,9 @@ https://mega.nz/file/fY1STZ7B#NHVV1I2ehVNyyc5VOiIXr6eSc58wlcXgmMuR7b3Phfo
 
 6. Install apps of your choice by using this utility.
 (When you hit the "Start Install" button, another windows will pop up. You have to hit Install or Update (It is installing Winget))
-7. I would recommend using some of the tweaks from this utility as long as you know what you are doing. (Only at your own risk!!!)
-8. Thats it. Enjoy.
+7. (Recommended!) Go to Updates tab and hit the middle option. (This will make feature updates delay in 2 years, so only updates you will recieve is security update)
+8. I would recommend using some of the tweaks from this utility as long as you know what you are doing. (Only at your own risk!!!)
+9. Thats it. Enjoy.
 
 # Credits
 
