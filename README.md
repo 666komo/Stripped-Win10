@@ -37,3 +37,7 @@ Thanks!
 # There is still room for improvement!
 
 There are still some things I want to change or delete. Make sure to watch this repo for updates!
+
+# Disclaimer
+
+Windows (OS) is product made by Microsoft Corporation. This ISO is customized by ME and for MY needs and requirements. I'm NOT responsible for any damages and mistakes made while in installation.
